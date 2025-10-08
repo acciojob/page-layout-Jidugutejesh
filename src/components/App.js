@@ -14,10 +14,10 @@ const App = () => {
   return (
     <div>
      <PageLayout
-      header={<h1>My  Website is tejesh</h1>}
-      footer={<p>2025 My Website</p>}
+      header={<h1>Welcome to my website</h1>}
+      footer={<p>© 2023 My Website.All rights reserved.</p>}
     >
-      <p>Welcome to the main content!</p>
+      <p>This is content of my website.</p>
     </PageLayout>
         {/* Do not remove the main div */}
     </div>
